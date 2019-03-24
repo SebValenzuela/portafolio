@@ -1,0 +1,16 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+
+header {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 10rem;
+}
+
+footer {
+  background-color: green;
+  font-weight: 700;
+}

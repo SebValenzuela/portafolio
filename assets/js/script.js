@@ -14,7 +14,6 @@ $(function(){
     }
   });
 
-// Hace que al pasar el puntero del mouse apararezca el nombre del icono
   $('[data-toggle="popover"]').popover();
 
 });

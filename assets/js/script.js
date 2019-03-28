@@ -17,3 +17,4 @@ $(function(){
   $('[data-toggle="popover"]').popover();
 
 });
+//hola 
